@@ -1,0 +1,11 @@
+framework module IguamaSDK {
+  umbrella header "IguamaSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module IguamaSDK.Swift {
+    header "IguamaSDK-Swift.h"
+    requires objc
+}

@@ -1,0 +1,41 @@
+/* 
+  Localizations.strings
+  IguamaSDK
+
+  Created by 洪聪志 on 2020/2/24.
+  Copyright © 2020 Iguama Inc. All rights reserved.
+*/
+"UseGuideTipsOfTitle" = "It’s easy! Our\n Button will do the job!";
+"UseGuideTipsOfContent" = "The Button will show you the price\n in ";
+"UseGuideTipsOfContent_2" = ". Pay with it!";
+"UseGuideTipsOfPromptTitle" = "Pay with 16,000";
+"UseGuideTipsOfButtonTitle" = "Got it";
+
+"PaymentLoadingTipsOfTitle" = "Hold on a second!";
+"PaymentLoadingTipsOfContent" = "We are proccessing your\n payment with Points";
+
+"GuideTipsOfTitle" = "Ready,Get Set...";
+"GuideTipsOfContent" = "Our blue Button is getting\n ready for you!";
+"GuideTipsOfTitle_2" = "GO!";
+"GuideTipsOfContent_2" = "Find our Button\n at checkout";
+
+"BottonTipsOfTitle" = "Hey! fill your cart…";
+"BottomTipsOfContent" = "And pay with our Button at checkout";
+"BottonTipsOfTitleForPayment" = "Hey!You are close";
+"BottomTipsOfContentForPayment" = "Add a card to our Button next.\n *Nothing will be charge to your card!";
+"BottomTipsOfContentForOther_1" = "Pay with ";
+"BottomTipsOfContentForOther_2" = " Button at checkout";
+
+"OrderTipsOfTitle" = "Yay! Get it with ";
+"OrderTipsOfContent" = "Use our points \n Button to pay this order";
+"OrderTipsOfButtonTitle" = "OK,Great!";
+
+"OrderNotEnoughTipsOfTitle" = "Not enough";
+"OrderNotEnoughTipsOfContent_1" = "You need ";
+"OrderNotEnoughTipsOfContent_2" = " more.\n Choose other item!";
+"OrderNotEnoughTipsOfButton" = "Go to my account";
+
+"PurchaseTipsOfTitle" = "Congrats!";
+"PurchaseTipsOfContent_1" = "You payed successfully.";
+"PurchaseTipsOfContent_2" = "successfully.";
+"PurchaseTipsOfButton" = "Got it!";
