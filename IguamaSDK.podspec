@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
 
    spec.author             = "Iguama Inc"
    spec.ios.deployment_target = "8.0"
-   spec.platform     = :ios
+   # spec.platform     = :ios
    spec.source       = { :git => "https://github.com/HongCongZhi/IguamaSDK.git", :tag => "#{spec.version}" }
 
    spec.vendored_frameworks = "IguamaSDK.framework"
