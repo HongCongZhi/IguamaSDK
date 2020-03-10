@@ -9,14 +9,14 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "IguamaTestSDK"
-  spec.version      = "0.1.0"
+  spec.version      = "0.0.1"
   spec.summary      = "Iguama's Loyalty Program Mobile SDK."
 
   spec.description  = <<-DESC
   Iguama's Loyalty Program Mobile SDK gives your the ability to redeem and earn points in Amazon.com
                    DESC
 
-  spec.homepage     = "https://iguama.github.io"
+  spec.homepage     = "https://github.com/HongCongZhi/IguamaSDK"
 
   spec.license      = { :type => "Copyright", :text => <<-LICENSE
                 Copyright 2020
@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
                LICENSE
             }
 
-  spec.author             = "Iguama Inc"
+  spec.author             = "Kerwin"
   spec.ios.deployment_target = "8.0"
   # spec.platform     = :ios
   spec.source       = { :git => "https://github.com/HongCongZhi/IguamaSDK.git", :tag => "#{spec.version}" }
