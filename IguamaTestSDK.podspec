@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "IguamaTestSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.1"
   spec.summary      = "Iguama's Loyalty Program Mobile SDK."
 
   spec.description  = <<-DESC
